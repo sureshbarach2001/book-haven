@@ -211,10 +211,9 @@ Last Updated: March 16, 2025
 
 Happy reading and coding! 📚✨
 
-
 ---
 
 ### Notes:
-- Replace `sureshbarach2001` and `saink4831@gmail.com` with your actual details.
+- Replace `your-username` and `your-email@example.com` with your actual details.
 - The README assumes dependencies like `Book.js` (Mongoose model) and `database.js`/`redis.js` configs exist—ensure they’re implemented as implied by your `server.js`.
 - The LinkedIn post is vibrant and engaging, while the README is detailed for developers. Let me know if you need tweaks!
